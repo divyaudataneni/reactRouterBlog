@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+
+.contact-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+.contact-logo {
+  height: 300px;
+}
+
+.contact-text {
+  font-size: 50px;
+  color: #551e53;
+}

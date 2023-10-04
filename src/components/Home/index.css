@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+.home-logo {
+  height: 300px;
+}
+
+.home-text {
+  font-size: 50px;
+  color: #551e53;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.about-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+.about-logo {
+  height: 300px;
+}
+
+.about-text {
+  font-size: 50px;
+  color: #551e53;
+}

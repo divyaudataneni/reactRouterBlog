@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.notfound-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+.notfound-logo {
+  height: 300px;
+}
+
+.notfound-text {
+  font-size: 50px;
+  color: #551e53;
+}
